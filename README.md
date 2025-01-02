@@ -1,4 +1,4 @@
-# E-SPACE
+# E-SPACE Web Server Manager
 
 “E - Space” deals with the Web Server based Information and Maintenance of the Web Server. Web Services can identify the consumer, whether the consumer is an individual, a business entity, or another Web Service. The Physical location of the consumer is traceable by the Web Service. The Security and Privacy policies related to the consumer are known to a Web Service. Service Level Agreements that exist between the consumer and the service provider are open to web services. URL names and authorities are identified, and the relationship between consumers and Web Services is maintained.
 
